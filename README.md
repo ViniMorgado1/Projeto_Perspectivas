@@ -12,5 +12,5 @@ Os pacotes podem ser instalados diretamente no RStudio utilizando o código acim
 
 ## Como Executar o Aplicativo
 Você pode executar o aplicativo de duas maneiras:
-1. **Diretamente no RStudio**: Após instalar os pacotes necessários, você pode rodar o aplicativo no RStudio. Basta abrir o arquivo principal do aplicativo (arquivo .R) e clicar em "Run App".
+1. **Diretamente no RStudio**: Após instalar os pacotes necessários, você pode rodar o aplicativo no RStudio. Basta abrir o arquivo principal do aplicativo (.R) e clicar em "Run App".
 2. **Através do link online**: Se preferir, você pode acessar a versão online do aplicativo pelo seguinte link: [Projeto Perspectivas](https://vinimorgado.shinyapps.io/Projeto_Perspectivas/). Isso permitirá que você utilize o aplicativo diretamente no seu navegador sem a necessidade de instalar nada localmente.
